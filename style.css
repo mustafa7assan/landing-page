@@ -110,3 +110,28 @@ body {
   text-align: center;
   padding: 8px 0;
 }
+
+/* Testimonial Section Style */
+.testimonial {
+  background-color: #eee;
+  padding: 100px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.content {
+  width: 70%;
+}
+.content .text {
+  font-size: 24px;
+  font-weight: 300;
+  font-style: italic;
+  text-align: justify;
+}
+.content .author {
+  text-align: left;
+  margin-top: 10px;
+  font-size: 16px;
+  font-weight: 700;
+}
